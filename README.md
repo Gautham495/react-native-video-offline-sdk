@@ -89,19 +89,22 @@ This plugin will:
 
 ---
 
-## 🔑 Add Your Offline SDK Credentials
+## Demo
 
-You can obtain these from your dashboard:
-
-```
-https://sdk.thewidlarzgroup.com/offline-sdk
-
-https://sdk.thewidlarzgroup.com/dashboard
-
-```
-
-
-The example uses a simple configuration wrapper to load these at runtime.
+<table>
+  <tr>
+    <th align="center">🍏 iOS Demo</th>
+    <th align="center">🤖 Android Demo</th>
+  </tr>
+  <tr>
+    <td align="center">
+      <video src="https://github.com/user-attachments/assets/ae6d8f4d-9ffc-4b0a-b841-9ac7896edd11" height="650" width="300" controls></video>
+    </td>
+    <td align="center">
+      <video src="https://github.com/user-attachments/assets/8d3316a0-13a0-4274-9142-3328a59f9ce3" height="650" width="300" controls></video>
+    </td>
+  </tr>
+</table>
 
 ---
 
