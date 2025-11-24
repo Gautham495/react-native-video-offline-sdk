@@ -38,8 +38,6 @@ const VideoPlayer = () => {
         style={styles.video}
         playInBackground
         enterPictureInPictureOnLeave
-
-        
       />
     </View>
   );

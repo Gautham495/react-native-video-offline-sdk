@@ -95,14 +95,11 @@ You can obtain these from your dashboard:
 
 ```
 https://sdk.thewidlarzgroup.com/offline-sdk
+
+https://sdk.thewidlarzgroup.com/dashboard
+
 ```
 
-Add them to your `.env` or secure config:
-
-```env
-OFFLINE_SDK_PUBLIC_KEY=your_key_here
-OFFLINE_SDK_PRIVATE_KEY=your_key_here
-```
 
 The example uses a simple configuration wrapper to load these at runtime.
 
@@ -137,24 +134,20 @@ This repo includes:
 
 ---
 
-## 📺 Watch the Full Tutorial
+## 📺 Watch the Full Tutorials in YouTube
 
-**COMING SOON** — Link to the YouTube video will be added here after release.
+[About Offline Video SDK](https://youtu.be/4uBlvYOQMI8)
+
+[Implementing Offline Video SDK](https://youtu.be/OvcJr42q0mw)
 
 ## 🤖 Download the Android Version
 
-**COMING SOON** — Link to the Android APK will be added here after release.
+[Android APK](https://expo.dev/artifacts/eas/arhbxhNChNrd5LTA4791QJ.apk)
 
 ---
 
 ## 🧑‍💻 Author
 
 **Gautham Vijayan**
-
----
-
-## ⭐️ Support
-
-If this repo helped you, consider giving it a **star** ⭐ on GitHub!
 
 ---
